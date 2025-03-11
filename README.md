@@ -17,7 +17,7 @@ This project aims to analyze eCommerce transaction data to derive insights, buil
 
 1. Clone the repository:
    ```
-   git clone <repository-url>
+   git clone https://github.com/SaiRamReddySolleti/Ecommerce-data-analysis.git
    cd ecommerce-transactions-analysis
    ```
 
